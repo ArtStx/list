@@ -16,6 +16,9 @@ baibako.tv
 rustorka.com
 www.lostfilm.tv
 rutor.info
+rutor.org
+t.me
+telegram.org
 8.8.8.8
 8.8.4.4
 209.244.0.3
